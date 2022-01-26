@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Martinluther123
+- 👋 Hi, I’m Chinanu Martin Ohanyere
 - 👀 I’m interested in Data Science & Data Analytics 
 - 🌱 I’m currently learning Data Sience
 - 💞️ I’m looking to collaborate with people who are basically in the field of Data Science
